@@ -1,2 +1,2 @@
 # gitingStarted
-Example Repository
+Adding Some Things
